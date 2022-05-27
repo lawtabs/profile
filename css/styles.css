@@ -1,0 +1,147 @@
+/******** ELEMENT TAGS **************/
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+
+
+
+/******** CLASS TAGS **************/
+
+.topcontainer {
+  background-color: #B3E8E5;
+  padding-top: 100px;
+  position: relative;
+  height: 870px;
+}
+
+.cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.profpic {
+  height: auto;
+  width: 250px;
+}
+
+.mountain {
+  position: relative;
+  top: 210px;
+}
+
+.navart {
+  height: auto;
+  width: 200px;
+}
+
+.guitarart {
+  height: 200px;
+  width: auto;
+}
+
+
+.cloud2 {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.navbar {
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  text-align: left;
+  padding: 0;
+}
+
+.profile {
+    height: 870px;
+    background-color: #EFFFFD;
+    padding-top: 100px;
+}
+
+.skills {
+  height: 920px;
+  background-color: #B3E8E5;
+  padding-top: 50px;
+}
+
+.contact-me {
+  padding-top: 155px;
+  background-color: #EFFFFD;
+  height: 710px;
+}
+
+.navlist {
+  list-style-type: none;
+  margin:  0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #99C4C8;
+}
+
+.navlink {
+  float: left;
+  font-family: 'Merriweather', serif;
+}
+
+.navlink a {
+  display: block;
+  border-right: 1px solid #bbb;
+  font-size: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.navlink a:hover {
+  background-color: #EFFFFD;
+}
+
+.soclogo {
+ height: 50px;
+ width: auto;
+}
+
+.footer-link {
+  text-decoration: none;
+}
+
+.homebutton {
+  height: 60px;
+  width: auto;
+  position: fixed;
+  bottom: 10px;
+  right: 20px;
+
+}
